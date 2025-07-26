@@ -58,4 +58,4 @@ To use the job recommendation system, follow the instructions below:
 * Run the command: streamlit run __init__.py ( For Local Server )
 * Access the deployed job recommendation API and make requests to receive personalized recommendations.
 
-#### Please feel free to contribute to this project by submitting pull requests or opening issues.
+
