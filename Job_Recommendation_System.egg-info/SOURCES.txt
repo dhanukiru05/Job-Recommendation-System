@@ -1,0 +1,7 @@
+README.md
+setup.py
+Job_Recommendation_System.egg-info/PKG-INFO
+Job_Recommendation_System.egg-info/SOURCES.txt
+Job_Recommendation_System.egg-info/dependency_links.txt
+Job_Recommendation_System.egg-info/requires.txt
+Job_Recommendation_System.egg-info/top_level.txt

@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: Job_Recommendation_System
+Version: 0.0.1
+Author: Abbas Behrainwala
+Author-email: abbasbehrain95@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: selenium
+Requires-Dist: tqdm
+Requires-Dist: bs4
+Requires-Dist: regex
+Requires-Dist: docx
+Requires-Dist: nltk
+Requires-Dist: spacy
+Requires-Dist: python-docx
+Requires-Dist: scikit-learn
+Requires-Dist: ftfy
+Requires-Dist: PyPDF2
+Requires-Dist: pyresparser
+Requires-Dist: streamlit
